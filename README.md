@@ -17,6 +17,7 @@ Welcome to the Flipkart Order Data Analysis Project! This project aims to provid
 
 This project is a data analysis initiative that provides insights into customer behavior and preferences based on Flipkart order data. It involves exploring and understanding the patterns of delivered, refunded, and canceled orders, as well as estimating the carbon footprint associated with these orders. The project culminates in the creation of an interactive dashboard for data visualization.
 
+
 ## Technologies Used
 
 The following technologies were used in this project:
