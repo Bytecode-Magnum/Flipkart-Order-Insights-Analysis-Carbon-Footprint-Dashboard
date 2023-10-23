@@ -50,12 +50,3 @@ To make the findings accessible and visually engaging, an interactive data dashb
 
 Contributions to this project are welcome! If you have ideas, suggestions, or would like to contribute code or enhancements, please feel free to submit issues or pull requests.
 
-## License
-
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
-
-For in-depth details and code examples, please refer to the [Jupyter Notebook](notebook.ipynb) or explore the interactive [dashboard](dashboard/) for visual representations of the project's insights.
-
----
-
-**Note**: Adapt this README template to match the specifics of your project and include appropriate links to project files and resources.
