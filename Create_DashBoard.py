@@ -31,7 +31,7 @@ unique_years = years
 
 # Initialize the Dash app
 app = dash.Dash(__name__, external_stylesheets=['/assets/styles.css'])
-
+server=app.server
 # Define the app layout
 app.layout = html.Div([
     html.H1("Flipkart Orders Data Analysis", style={'textAlign': 'center', 'color': 'white'}),
