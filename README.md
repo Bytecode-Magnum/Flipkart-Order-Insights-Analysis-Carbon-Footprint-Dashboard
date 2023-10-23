@@ -22,11 +22,12 @@ This project is a data analysis initiative that provides insights into customer 
 
 ![Screenshot 2023-10-23 221538](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/fed714bf-0087-46d4-b700-a0972f77ca3b)
 ![Screenshot 2023-10-23 221553](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/a707448e-f15f-4c64-9437-5b18a0624e23)
-![Screenshot 2023-10-23 223022](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/27f7762c-9808-4aec-82b3-9aed7255da6a)
-![Screenshot 2023-10-23 223010](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/49ca08e9-234b-47d5-8883-5c4602a19d3a)
 ![Screenshot 2023-10-23 221632](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/b3a28e27-d6c5-4440-8528-a1f0da5e5847)
 ![Screenshot 2023-10-23 221616](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/ddb34c38-df33-4dc4-80d4-c6a059ab2731)
 ![Screenshot 2023-10-23 221605](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/80840817-fd69-491d-b9c2-680c73804e3e)
+
+![Screenshot 2023-10-23 223010](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/49ca08e9-234b-47d5-8883-5c4602a19d3a)
+![Screenshot 2023-10-23 223022](https://github.com/Bytecode-Magnum/Flipkart-Order-Insights-Analysis-Carbon-Footprint-Dashboard/assets/99680514/27f7762c-9808-4aec-82b3-9aed7255da6a)
 
 
   
